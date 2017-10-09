@@ -22,14 +22,6 @@ You'll need to manually install the following JAR:
 
 Please see the [PushAuth API docs](https://pushauth.io/api/index.html) for the most up-to-date documentation.
 
-## Dependencies or Used libraries
-
-Какие либы сторонние ты использовал в проекте? 
-
- - либа 1
- - либа2
- 
- 
 ## Usage
 
 PushAuthExample.java
